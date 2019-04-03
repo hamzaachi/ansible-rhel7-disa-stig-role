@@ -20,7 +20,7 @@ galaxy_info:
   - hardening
   - openscap
   - ssg
-  - scap-security-guide
+  - scap
   - security
   - compliance
   - disa
